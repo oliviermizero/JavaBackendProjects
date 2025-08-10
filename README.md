@@ -1,1 +1,1 @@
-These are Java coding projects for the backend software development program built by me during the summer of 2025.
+These are Java coding projects for the backend software development program built by me during the summer of 2025. The projects include an automated version of the classic card game WAR using classes and objects.
